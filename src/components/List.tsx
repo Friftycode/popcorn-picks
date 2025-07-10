@@ -7,7 +7,7 @@ import {
   type RMEpisode,
   type RMLocation,
 } from '../utils/rick-and-morty-api';
-import SelectButton from './SelectButton';
+import Pagination from './Pagination.tsx';
 import placeholder from '../../assets/no-image-300x300.jpeg';
 import styles from './List.module.less';
 
